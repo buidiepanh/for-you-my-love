@@ -86,4 +86,5 @@ export const gallery = {
   })),
 };
 
-export const footerText = "Làm bằng cả trái tim, dành riêng cho em";
+export const footerText =
+  "Lời kết cuối, anh chỉ muốn nói là Anh Yêu Em Rất Rất Nhìuuu !!!";
