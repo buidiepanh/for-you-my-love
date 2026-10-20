@@ -63,7 +63,7 @@ export const gallery = {
       src: "./img/pic5.jpg",
       w: 800,
       h: 900,
-      caption: "Đi camping zới elmm",
+      caption: "Đi camping với elmm",
       date: "27/04/2026",
     },
     {
