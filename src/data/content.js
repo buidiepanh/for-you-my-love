@@ -56,7 +56,7 @@ export const gallery = {
       src: "./img/pic2.jpg",
       w: 2000,
       h: 1500,
-      caption: "Đi picnic zới nhauu",
+      caption: "Đi picnic với nhauu",
       date: "19/10/2025",
     },
     {
