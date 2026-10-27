@@ -14,7 +14,7 @@ export const placeholder = (label, w = 800, h = 1000) =>
 export const hero = {
   greeting: "Gửi người con gái anh thương,",
   scriptLine: "Chúc mừng ngày",
-  bigText: "20/11",
+  bigText: "20/10",
   subtitle:
     "Cảm ơn em vì đã dịu dàng, kiên nhẫn và ở bên anh mỗi ngày. Mong em luôn rạng rỡ như đóa hoa này.",
   cta: "Mở thư của anh",
