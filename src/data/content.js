@@ -26,7 +26,7 @@ export const letter = {
     "Hôm nay là ngày phụ nữ Việt Nam 20/10, anh muốn dành những lời yêu thương nhất gửi đến em, người con gái mà anh rất yêu.",
     "Cảm ơn em vì đã luôn yêu anh, luôn tin tưởng anh, luôn quan tâm đến những điều nhỏ nhặt nhất và cùng anh phát triển để trở thành 1 phiên bản tốt hơn mỗi ngày.",
     "Tuy rằng anh chưa thể ở cạnh em ngày hôm nay, nhưng anh mong món quà nhỏ này sẽ thay 1 phần nào đó tấm lòng cụa anh gửi đến em.",
-    "Chúc em một ngày 20/11 thật rạng rỡ, luôn khỏe mạnh, luôn bình yên và luôn mỉm cười thật nhiều như mỗi khi em ở cạnh anh.",
+    "Chúc em một ngày 20/10 thật rạng rỡ, luôn khỏe mạnh, luôn bình yên và luôn mỉm cười thật nhiều như mỗi khi em ở cạnh anh.",
   ],
   closing: "Anh bé yêu em,",
   signature: "Diệp Anh",
